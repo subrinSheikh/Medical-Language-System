@@ -1,0 +1,61 @@
+[
+  {
+    "type": "silent_emergency",
+    "emergency_type": "choking",
+    "message": "I am choking and cannot speak. I need immediate help. Please perform the Heimlich maneuver.",
+    "language": "English",
+    "timestamp": "2026-01-17T22:23:31.116943"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "i have headache and dizziness",
+    "explanation": {
+      "what_it_means": "Headaches and dizziness are very common feelings that can happen for many reasons. Sometimes they are minor, like being tired or dehydrated, but they can also be signs that your body needs a little extra care or attention. It’s your body’s way of signaling that something isn't quite right.",
+      "what_to_do": "*   Sit or lie down in a quiet, dimly lit place to rest for a little while.\n*   Make sure you drink some water slowly, as dehydration is a common trigger.\n*   Try taking slow, deep breaths to help calm your system down.\n*   If the symptoms are new, severe, or getting worse, it is important to contact a healthcare professional for advice.",
+      "what_not_to_do": "*   Do not immediately try to drive or operate heavy machinery until you feel completely steady.\n*   Avoid suddenly standing up quickly, as this can sometimes make dizziness worse.\n*   Do not take extra doses of over-the-counter pain relievers without checking the recommended limits."
+    },
+    "language": "English",
+    "timestamp": "2026-01-17T22:21:59.952013"
+  },
+  {
+    "type": "translation",
+    "source_text": "i am angry on you",
+    "translated_text": "أنا غاضب منك",
+    "source_language": "Unknown",
+    "target_language": "Arabic",
+    "emotion": "angry",
+    "timestamp": "2026-01-17T22:16:35.746022"
+  },
+  {
+    "type": "tutor",
+    "question": "I have a severe headache",
+    "response": "I understand you are experiencing a severe headache.\n\nAs an AI tutor, I can provide you with general information about headaches, but **I cannot give medical advice or diagnose your condition.**\n\nIf you have a severe headache, it is important to **seek immediate medical attention** from a healthcare professional or emergency services.",
+    "language": "English",
+    "timestamp": "2026-01-17T22:11:48.036586"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "stroke",
+    "message": "I think I am having a stroke. I cannot speak properly. Please call an ambulance right away.",
+    "language": "English",
+    "timestamp": "2026-01-17T18:19:03.773038"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "My heart is beating fast and I feel scared",
+    "explanation": {
+      "what_it_means": "When your heart beats fast, it's often called a fast heart rate or palpitations. Feeling scared along with it can happen because your body is reacting to stress, anxiety, or sometimes even just strong emotions. It’s your body’s natural alarm system going off.",
+      "what_to_do": "*   Try to sit or lie down in a quiet, comfortable spot to rest for a few minutes.\n*   Take slow, deep breaths in through your nose and slowly out through your mouth to help calm your body down.\n*   Drink a glass of water, as dehydration can sometimes cause a faster heart rate.\n*   If you feel dizzy, have chest pain, or the fast heartbeat doesn't slow down after a short rest, you should seek medical help right away.",
+      "what_not_to_do": "*   Do not suddenly jump up or try to do strenuous activity right now.\n*   Avoid consuming caffeine (like coffee, strong tea, or energy drinks) as this can make your heart beat faster.\n*   Do not ignore it if you start feeling much worse, especially if you have shortness of breath or severe pain."
+    },
+    "language": "English",
+    "timestamp": "2026-01-17T18:18:37.542426"
+  },
+  {
+    "type": "tutor",
+    "question": "i am angry on you",
+    "response": "أنا أفهم أنك تشعر بالغضب. باعتباري مدرسًا للذكاء الاصطناعي، فإن هدفي هو مساعدتك في الحصول على المعلومات الطبية والتعلم.\n\nكيف يمكنني مساعدتك في أسئلتك أو دراساتك الطبية الآن؟",
+    "language": "Arabic",
+    "timestamp": "2026-01-17T17:47:16.163203"
+  }
+]
