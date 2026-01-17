@@ -1,5 +1,276 @@
 [
   {
+    "type": "explain_condition",
+    "condition": "my father feeling dizziness",
+    "explanation": {
+      "what_it_means": "Feeling dizzy is a very common symptom that can have many different causes. It often means that the blood flow or the balance system in the body isn't working perfectly at that moment. While it can sometimes be minor, like due to dehydration, it's important to pay attention to it.",
+      "what_to_do": "*   Have your father sit or lie down immediately to prevent a fall if the dizziness hits suddenly.\n*   Ensure he drinks some water, as dehydration is a common trigger for feeling lightheaded.\n*   Ask him to move slowly, especially when getting up from sitting or lying down.\n*   If the dizziness is severe, doesn't go away quickly, or is accompanied by other new symptoms (like chest pain or confusion), seek medical attention promptly.",
+      "what_not_to_do": "*   Do not let him drive or operate any heavy machinery until the dizziness has completely resolved and he feels stable.\n*   Avoid sudden changes in posture, like standing up very quickly.\n*   Do not ignore dizziness if it happens frequently or lasts a long time; it needs to be checked by a doctor."
+    },
+    "language": "Arabic",
+    "timestamp": "2026-01-18T01:11:31.223627"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:10:36.244008"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:10:06.887136"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:09:51.359149"
+  },
+  {
+    "type": "tutor",
+    "question": "why patient become unconscious",
+    "response": "मरीज़ कई अलग-अलग कारणों से बेहोश हो सकते हैं जो मस्तिष्क को प्रभावित करते हैं।\n\nयहां कुछ सबसे सामान्य श्रेणियां दी गई हैं:\n\n* **ऑक्सीजन की कमी:** यदि मस्तिष्क को पर्याप्त ऑक्सीजन नहीं मिलती है (जैसे कि दम घुटने या सांस लेने में गंभीर समस्या के दौरान), तो यह बंद हो सकता है।\n* **रक्त शर्करा की समस्याएँ:** बहुत कम रक्त शर्करा (हाइपोग्लाइसीमिया) मस्तिष्क को उसके प्राथमिक ईंधन स्रोत से वंचित कर देता है।\n* **सिर की चोटें:** सिर पर चोट लगने से तुरंत या देर से बेहोशी हो सकती है।\n* **स्ट्रोक या रक्तस्राव:** मस्तिष्क में रक्त के प्रवाह से संबंधित समस्याएं, चाहे रुकावट (स्ट्रोक) या रक्तस्राव के कारण हों, चेतना की हानि का कारण बन सकती हैं।\n* **दौरे:** दौरे के दौरान मस्तिष्क में असामान्य विद्युत गतिविधि अक्सर बेहोशी की स्थिति का कारण बनती है।\n* **गंभीर संक्रमण:** मस्तिष्क को प्रभावित करने वाले संक्रमण, जैसे मेनिनजाइटिस या गंभीर सेप्सिस, मानसिक स्थिति में बदलाव या बेहोशी का कारण बन सकते हैं।\n* **विषाक्त पदार्थ या दवाएं:** दवाओं की अधिक मात्रा, शराब, या कुछ जहरों के संपर्क में आने से केंद्रीय तंत्रिका तंत्र ख़राब हो सकता है।",
+    "language": "Hindi",
+    "timestamp": "2026-01-18T01:09:19.057751"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "angry",
+    "timestamp": "2026-01-18T01:07:58.712047"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "angry",
+    "timestamp": "2026-01-18T01:07:35.538873"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:02:43.349269"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:02:32.839941"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:02:14.293776"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "may father feeling dizzy",
+    "explanation": {
+      "what_it_means": "Feeling dizzy is a very common symptom, and it basically means your father is feeling unsteady, lightheaded, or like the room is spinning. It can happen for many simple reasons, like standing up too fast, not drinking enough water, or being tired. However, because dizziness can sometimes be a sign of something that needs attention, it’s important to pay attention to it.",
+      "what_to_do": "*   Have your father sit or lie down immediately to prevent a fall if he feels dizzy.\n*   Encourage him to drink a glass of water or a clear, non-caffeinated beverage slowly.\n*   Ask him to try and move slowly, especially when changing positions (like going from lying down to sitting up).\n*   If the dizziness is new, severe, or doesn't go away quickly, you should contact his regular doctor or seek medical advice.",
+      "what_not_to_do": "*   Do not let him try to drive a car or operate heavy machinery while he is feeling dizzy.\n*   Avoid giving him any medication (even over-the-counter ones) to treat the dizziness unless a doctor has specifically told him to take it for this feeling.\n*   Do not ignore it if the dizziness is accompanied by other worrying symptoms like chest pain, sudden severe headache, or confusion."
+    },
+    "language": "Hindi",
+    "timestamp": "2026-01-18T01:02:06.584785"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "allergy",
+    "message": "I am having a severe allergic reaction. I need an epinephrine injection and immediate medical care.",
+    "language": "English",
+    "timestamp": "2026-01-18T01:02:02.417261"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "may father feeling dizzy",
+    "explanation": {
+      "what_it_means": "Feeling dizzy simply means that your father feels unsteady, lightheaded, or like the room is spinning. It is a very common feeling that can be caused by many different things, such as dehydration, standing up too fast, or sometimes just being tired. While it is often not serious, it’s important to pay attention to it.",
+      "what_to_do": "* Have him sit or lie down immediately in a safe place to prevent a fall.\n* Encourage him to sip some water slowly if he feels thirsty.\n* If possible, have him slowly move his feet while sitting or lying down.\n* If the dizziness is severe, doesn't go away quickly, or is accompanied by chest pain or trouble speaking, seek medical help right away.",
+      "what_not_to_do": "* Do not let him try to walk around or drive until the feeling has completely passed and he feels steady.\n* Avoid making sudden changes in position, such as jumping up quickly from a chair or bed.\n* Do not ignore the dizziness if it happens often or gets worse."
+    },
+    "language": "Hindi",
+    "timestamp": "2026-01-18T01:01:19.484144"
+  },
+  {
+    "type": "tutor",
+    "question": "why patient become uncoincious",
+    "response": "ایک مریض بہت سے مختلف وجوہات کی بناء پر بے ہوش ہوسکتا ہے۔ یہاں کچھ اہم زمرے ہیں:\n\n1. ** دماغ کے ساتھ مسائل: ** اس میں ہجوم جیسے چوٹیں ، دماغ میں خون بہہ رہا ہے یا فالج شامل ہیں۔\n2. ** آکسیجن کی کمی: ** اگر دماغ کو کافی آکسیجن نہیں مل رہی ہے (جیسے سانس لینے میں شدید پریشانی کے دوران یا اگر دل رک جاتا ہے) تو وہ شخص شعور سے محروم ہوجائے گا۔\n3. ** بلڈ شوگر کی پریشانی: ** بہت کم بلڈ شوگر (ہائپوگلیسیمیا) بے ہوشی کا سبب بن سکتا ہے۔\n4. ** خون میں شدید کمی یا صدمہ: ** دماغ میں خون کا کافی بہاؤ نہیں ، اکثر چوٹ یا شدید انفیکشن کی وجہ سے۔\n5. ** زہریلا یا زیادہ مقدار: ** کچھ منشیات ، شراب ، یا زہر دماغ کی سرگرمی کو افسردہ کرسکتے ہیں۔\n6. ** دوروں: ** شدید دوروں کی کچھ اقسام شعور کے عارضی نقصان کا باعث بن سکتی ہیں۔\n\nیہ صرف عمومی زمرے ہیں۔ ایک خاص وجہ ہمیشہ طبی تشخیص کی ضرورت ہوتی ہے۔",
+    "language": "Urdu",
+    "timestamp": "2026-01-18T01:01:06.746382"
+  },
+  {
+    "type": "tutor",
+    "question": "why patient become uncoincious",
+    "response": "مریض بہت سی مختلف وجوہات کی بناء پر بے ہوش ہوسکتے ہیں۔\n\nبنیادی وجوہات میں ایسے مسائل شامل ہیں جو ** دماغ کے معمول کی تقریب ** کو متاثر کرتے ہیں۔ یہ ہوسکتا ہے کیونکہ:\n\n1. ** کافی آکسیجن یا خون کا بہاؤ نہیں: ** دماغ کو خون کے ذریعہ فراہم کردہ آکسیجن اور گلوکوز (شوگر) کی مستقل فراہمی کی ضرورت ہے۔ اگر یہ سپلائی اچانک منقطع ہوجائے گی (جیسے بلڈ پریشر کے ایک بہت کم واقعہ یا سانس لینے کی شدید پریشانیوں کے دوران) ، مریض جلدی سے ہوش کھو دیتا ہے۔\n2. ** دماغ کے اندر مسائل: ** اس میں تکلیف دہ چوٹیں (جیسے سر کو شدید دھچکا) ، خون بہہ رہا ہے ، فالج ، یا دورے شامل ہیں۔\n3.\n4. ** مادے: ** کچھ ادویات یا منشیات کا زیادہ مقدار ، یا شراب سے زیادہ استعمال۔\n\n** عین وجہ کا پتہ لگانے کے لئے ، ڈاکٹر کو مریض کی تاریخ کو دیکھنے اور امتحان دینے کی ضرورت ہے۔ **",
+    "language": "Urdu",
+    "timestamp": "2026-01-18T01:00:38.843006"
+  },
+  {
+    "type": "tutor",
+    "question": "why patient become uncoincious",
+    "response": "ایک مریض بہت سے مختلف وجوہات کی بناء پر بے ہوش ہوسکتا ہے۔ یہاں کچھ عام زمرے ہیں:\n\n1. ** دماغ کے ساتھ مسائل: ** اس میں چوٹیں (جیسے ہچکچاہٹ یا سر کے صدمے کی طرح) ، اسٹروک ، دوروں ، یا دماغ کو متاثر کرنے والے شدید انفیکشن کی کچھ خاص اقسام شامل ہیں۔\n2. ** کافی آکسیجن نہیں: ** اگر دماغ کو کافی آکسیجن نہیں ملتی ہے تو ، ایک شخص شعور سے محروم ہوسکتا ہے۔ یہ سانس لینے کے شدید مسائل یا خون کی گردش میں مسائل کی وجہ سے ہوسکتا ہے۔\n3. ** بلڈ شوگر کی پریشانی: ** دونوں بہت زیادہ اور بہت کم بلڈ شوگر کی سطح (جیسے ذیابیطس کی طرح) بے ہوشی کا سبب بن سکتی ہے۔\n4. ** گردش کے مسائل: ** اگر بلڈ پریشر اچانک یا شدید طور پر گرتا ہے (صدمے ، شدید خون بہنے ، یا دل کی پریشانیوں کی وجہ سے) تو ، دماغ کو خون کا کافی بہاؤ نہیں مل سکتا ہے۔\n5.",
+    "language": "Urdu",
+    "timestamp": "2026-01-18T00:59:47.856798"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "angry",
+    "timestamp": "2026-01-18T00:59:00.637913"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "angry",
+    "timestamp": "2026-01-18T00:57:55.380710"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "i have a sneezing problem from morning",
+    "explanation": {
+      "what_it_means": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\\nPlease retry in 16.613601904s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash-lite', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}",
+      "what_to_do": "",
+      "what_not_to_do": ""
+    },
+    "language": "English",
+    "timestamp": "2026-01-18T00:19:06.675656"
+  },
+  {
+    "type": "tutor",
+    "question": "my dad feeling little dizzy",
+    "response": "AI ٹیوٹر کو پیدا کرنے میں خرابی: 429 ریسورس_س ہاسٹڈ۔ {'غلطی': {'کوڈ': 429 ، 'پیغام': 'آپ نے اپنے موجودہ کوٹے سے تجاوز کیا ، براہ کرم اپنے منصوبے اور بلنگ کی تفصیلات دیکھیں۔ اس غلطی سے متعلق مزید معلومات کے لئے ، اس کی طرف جائیں: https://ai.google.dev/gemini-api/docs/rate-limits۔ اپنے موجودہ استعمال کی نگرانی کے لئے ، سر: https://ai.dev/rate-limit پر جائیں۔ me n* کوٹہ میٹرک کے لئے حد سے تجاوز کر گیا: جنریٹیو لینگویج۔ googleapis.com/generate_content_free_tier_requests ، حد: 20 ، ماڈل: جیمنی -2.5-فلیش-لائٹ \\ nplease 18.742755091s میں دوبارہ کوشش کریں۔ 'قسم.Googleapis.com/google.rpc.help' ، 'لنکس': [{'تفصیل': 'جیمنی API کوٹے کے بارے میں مزید معلومات حاصل کریں' ، 'url': 'https://ai.google.dev/gemini-api/docs/rate- لیمٹس'}]}]}]}]}]}]}]}]}]}]}]}]}]}]}] 'قسم.گوگلیپیس ڈاٹ کام/google.rpc.quotafailure' ، 'خلاف ورزیوں': [{'کوٹیمیٹرک': 'جنریٹیو لینگویج۔ googleapis.com/generate_content_free_requests' ، 'quoteade': 'quotimequestsperdepropreprogectperproceperproceperprogeg 'گلوبل' ، 'ماڈل': 'gemini-2.5-flash-lite'} ، 'quotavalue': '20'}]} ، {'type': 'type.googleapis.com/googleapis.com/google.rpc.retryinfo' ، 'ریٹریڈیلی': '18s'}]}",
+    "language": "Urdu",
+    "timestamp": "2026-01-18T00:18:05.631932"
+  },
+  {
+    "type": "tutor",
+    "question": "my dad feeling little dizzy",
+    "response": "AI ٹیوٹر کو پیدا کرنے میں خرابی: 429 ریسورس_س ہاسٹڈ۔ {'غلطی': {'کوڈ': 429 ، 'پیغام': 'آپ نے اپنے موجودہ کوٹے سے تجاوز کیا ، براہ کرم اپنے منصوبے اور بلنگ کی تفصیلات دیکھیں۔ اس غلطی سے متعلق مزید معلومات کے لئے ، اس کی طرف جائیں: https://ai.google.dev/gemini-api/docs/rate-limits۔ اپنے موجودہ استعمال کی نگرانی کے لئے ، سر: https://ai.dev/rate-limit پر جائیں۔ M n* کوٹہ میٹرک کے لئے حد سے تجاوز کر گیا: جنریٹیو لینگویج۔ googleapis.com/generate_content_free_tier_requests ، حد: 20 ، ماڈل: جیمنی -2.5-فلیش-لائٹ \\ nplease 11.914347281s میں دوبارہ کوشش کریں۔ 'قسم.Googleapis.com/google.rpc.help' ، 'لنکس': [{'تفصیل': 'جیمنی API کوٹے کے بارے میں مزید معلومات حاصل کریں' ، 'url': 'https://ai.google.dev/gemini-api/docs/rate- لیمٹس'}]}]}]}]}]}]}]}]}]}]}]}]}]}]}] 'قسم.گوگلیپیس ڈاٹ کام/google.rpc.quotafailure' ، 'خلاف ورزیوں': [{'کوٹیمیٹرک': 'جنریٹیو لینگویج۔ googleapis.com/generate_content_free_requests' ، 'quoteade': 'quotimequestsperdepropreprogectperproceperproceperprogeg 'گلوبل' ، 'ماڈل': 'gemini-2.5-flash-lite'} ، 'quotavalue': '20'}]} ، {'type': 'type.googleapis.com/googleapis.com/google.rpc.retryinfo' ، 'ریٹریڈیلی': '11s'}]}",
+    "language": "Urdu",
+    "timestamp": "2026-01-18T00:17:17.370839"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "neutral",
+    "timestamp": "2026-01-18T00:16:09.993260"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "neutral",
+    "timestamp": "2026-01-18T00:15:58.623240"
+  },
+  {
+    "type": "translation",
+    "source_text": "I am angry upon you",
+    "translated_text": "मैं तुम पर क्रोधित हूं",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "angry",
+    "timestamp": "2026-01-18T00:15:42.645310"
+  },
+  {
+    "type": "tutor",
+    "question": "my dad is feeling pain in his legs",
+    "response": "I understand you're concerned about your dad feeling pain in his legs.\n\nAs an AI tutor, I **cannot diagnose** medical conditions. Leg pain can have many different causes, ranging from simple things like muscle strain to other issues that might need medical attention.\n\nThe best next step is for your dad to **see a healthcare professional** (like his primary care doctor) so they can properly evaluate the pain and determine the cause.",
+    "language": "English",
+    "timestamp": "2026-01-17T23:56:28.523934"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "breathing",
+    "message": "I am having difficulty breathing. This is an emergency. Please call for medical help immediately.",
+    "language": "English",
+    "timestamp": "2026-01-17T23:55:47.920154"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "i am feeling feverish",
+    "explanation": {
+      "what_it_means": "Feeling feverish means your body temperature is higher than normal. This is often your body's way of fighting off an infection, like a cold or the flu. It's a common sign that your immune system is actively working.",
+      "what_to_do": "*   Rest: Give your body time to recover by staying home and relaxing.\n*   Hydrate: Drink plenty of fluids like water, clear broth, or electrolyte drinks to prevent dehydration.\n*   Monitor your temperature: Check your temperature periodically to see if it is rising significantly.\n*   Dress lightly: Wear comfortable, light clothing and use light blankets so you don't overheat.",
+      "what_not_to_do": "*   Do not ignore severe symptoms: If you have trouble breathing, confusion, or a very high fever, seek medical advice right away.\n*   Do not overexert yourself: Avoid strenuous activity or heavy work while you are feeling unwell.\n*   Do not self-medicate heavily: Avoid taking multiple different types of fever-reducing medication without checking labels or consulting a professional."
+    },
+    "language": "English",
+    "timestamp": "2026-01-17T23:55:33.020347"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "breathing",
+    "message": "I am having difficulty breathing. This is an emergency. Please call for medical help immediately.",
+    "language": "English",
+    "timestamp": "2026-01-17T23:55:25.004480"
+  },
+  {
+    "type": "silent_emergency",
+    "emergency_type": "breathing",
+    "message": "I am having difficulty breathing. This is an emergency. Please call for medical help immediately.",
+    "language": "English",
+    "timestamp": "2026-01-17T23:55:23.276249"
+  },
+  {
+    "type": "explain_condition",
+    "condition": "i am feeling feverish",
+    "explanation": {
+      "what_it_means": "Feeling feverish usually means your body temperature is higher than normal. This is often a sign that your immune system is fighting off something, like a common cold, the flu, or another type of infection. It's your body's natural way of trying to get better.",
+      "what_to_do": "*   Rest as much as possible to let your body focus on healing.\n*   Drink plenty of fluids like water, clear broth, or electrolyte drinks to stay hydrated.\n*   Monitor your temperature with a thermometer if you have one so you know how high it gets.\n*   Wear light clothing and use light blankets so you don't overheat.",
+      "what_not_to_do": "*   Do not force yourself to do strenuous activities or go to work/school if you feel unwell.\n*   Avoid taking medication unless you know what is causing the fever and are following safe dosage instructions (if you choose to take something for comfort).\n*   Do not drink excessive amounts of alcohol or caffeine, as these can lead to dehydration."
+    },
+    "language": "English",
+    "timestamp": "2026-01-17T23:54:58.249811"
+  },
+  {
+    "type": "tutor",
+    "question": "why a paitent becomes uncoincious",
+    "response": "That's an important question. A person can become unconscious for many different reasons.\n\nGenerally, unconsciousness happens when the **brain is not getting enough of what it needs to function normally**, or if the brain itself is injured or affected.\n\nHere are some of the common categories of reasons why someone might become unconscious:\n\n1.  **Lack of Oxygen or Blood Flow to the Brain:**\n    *   If the heart stops working properly (cardiac arrest).\n    *   If there is severe bleeding leading to low blood pressure.\n    *   If the airway is blocked.\n\n2.  **Metabolic Issues (Problems with Body Chemistry):**\n    *   Very low or very high blood sugar (like in severe diabetes).\n    *   Severe dehydration.\n    *   Serious imbalance of electrolytes (salts) in the body.\n\n3.  **Injury or Trauma:**\n    *   A serious blow to the head (concussion or more severe brain injury).\n\n4.  **Toxins or Drugs:**\n    *   Overdose of certain medications or alcohol.\n    *   Poisoning.\n\n5.  **Neurological Events:**\n    *   A severe seizure.\n    *   A stroke affecting critical parts of the brain.\n\nIn simple terms, it's a temporary shutdown of the brain's ability to stay awake and aware.",
+    "language": "English",
+    "timestamp": "2026-01-17T23:54:40.726375"
+  },
+  {
+    "type": "tutor",
+    "question": "why a paitent becomes uncoincious",
+    "response": "A patient can become unconscious for many different reasons. Unconsciousness means the person is unable to respond to their surroundings.\n\nHere are some common categories of things that can cause a person to lose consciousness:\n\n1.  **Problems with Blood Flow to the Brain:** The brain needs a constant supply of oxygen-rich blood. If the blood flow suddenly drops, the person can pass out (faint or have a syncopal episode).\n    *   *Examples:* Very low blood pressure, certain heart rhythm problems.\n\n2.  **Brain Injury or Swelling:** Physical trauma to the head or swelling inside the skull can disrupt normal brain function.\n    *   *Examples:* Concussion, bleeding in the brain.\n\n3.  **Metabolic Imbalances:** The brain needs the right balance of chemicals and fuel (like sugar) to work correctly.\n    *   *Examples:* Very low or very high blood sugar (like in diabetes), severe lack of oxygen (from breathing problems), or severe dehydration.\n\n4.  **Toxins or Medications:** Certain substances can depress the central nervous system, slowing down brain activity until the person becomes unresponsive.\n    *   *Examples:* Overdose of certain drugs or alcohol.\n\n5.  **Seizures:** Abnormal, excessive electrical activity in the brain can cause a temporary loss of consciousness.\n\n**In summary, a patient becomes unconscious when something disrupts the normal, healthy function of the brain, whether due to injury, lack of necessary fuel/oxygen, or chemical disruption.**",
+    "language": "English",
+    "timestamp": "2026-01-17T23:53:53.209546"
+  },
+  {
+    "type": "translation",
+    "source_text": "main tumse naraj hun",
+    "translated_text": "main tumse naraj hun",
+    "source_language": "Unknown",
+    "target_language": "Hindi",
+    "emotion": "sad",
+    "timestamp": "2026-01-17T23:53:00.877790"
+  },
+  {
     "type": "silent_emergency",
     "emergency_type": "choking",
     "message": "I am choking and cannot speak. I need immediate help. Please perform the Heimlich maneuver.",
